@@ -1,0 +1,52 @@
+.icon img {
+    box-sizing: border-box;
+    padding: 20px;
+}
+.mini-box img {
+    width: 60px;
+}
+img {
+    max-width: 100%;
+}
+
+#testimonials {
+    position: relative;
+}
+
+#testimonials::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../images/about-bgc.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 20% 0;
+    opacity: 0.15;
+}
+
+.count-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tech-icon {
+    filter: brightness(0) invert(1);
+    opacity: 0.3;
+    height: 80px;
+}
+
+#blog .section {
+    padding-top: 150px !important;
+}
+
+.article-title {
+    font-size: 2.7rem !important;
+}
+
+.article-subtitle {
+    font-size: 1.4rem
+}
