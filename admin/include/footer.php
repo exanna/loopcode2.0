@@ -1,19 +1,9 @@
-    <footer>
+
+<footer style="padding: 0;">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                    <ul class="social">
-                        <li><a target="_blank" href="https://www.facebook.com/agencja.loopcode"><i
-                                    class="fa fa-facebook"></i></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/agencja.loopcode"><i
-                                    class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="row">
                 <div class="col-lg-12">
-                    <p class="copyright">Copyright &copy; 2023 Loopcode</p>
+                    <p style="text-align: center; color: white; padding: 15px;">Copyright &copy; 2023 Loopcode</p>
                 </div>
             </div>
         </div>

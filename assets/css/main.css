@@ -39,14 +39,70 @@ img {
     height: 80px;
 }
 
-#blog .section {
-    padding-top: 150px !important;
+.blog .blog-post {
+    padding-top: 200px !important;
 }
+/* 
+@media (max-width: 912px) {
+    .blog .section {
+        padding-top: 170px !important;
+    }
+} */
 
 .article-title {
     font-size: 2.7rem !important;
+    line-height: 1.2 !important;
 }
 
 .article-subtitle {
-    font-size: 1.4rem
+    font-size: 1.4rem;
+    line-height: 1.2 !important;
+}
+
+/* admin page */
+
+.login-page {
+    min-height: calc(100vh - 185px);
+}
+
+.admin-page {
+    margin: 0;
+    padding: 0 !important;
+}
+
+.admin-menu {
+    background-color: var(--indigo);
+    color: white;
+    min-height: calc(100vh - 54px);
+    padding: 20px;
+}
+
+.admin-menu-list {
+
+}
+
+.admin-menu-link {
+    display: block;
+    color: white;
+    transition: all .3s linear;
+    border-bottom: 1px solid white;
+    padding: 10px 0;
+}
+
+.admin-menu-link-active {
+    color: var(--pink);
+    filter: brightness(1.75);
+}
+
+.admin-menu-link:hover {
+    color: var(--pink);
+}
+
+
+::-webkit-file-upload-button {
+    background-color: var(--indigo) !important;
+    color: white !important;
+    outline: none;
+    border: none;
+    padding: 0.7em;
 }
