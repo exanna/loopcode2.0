@@ -111,6 +111,10 @@ img {
     color: var(--pink);
 }
 
+.link-policy {
+    color: var(--indigo);
+}
+
 ol.policy li {
     list-style: decimal;
 }
@@ -138,6 +142,7 @@ ul.policy li {
     padding: 30px;
     background-color: var(--pink);
     color: white;
+    font-size: 13px;
 }
 
 .d-none {
