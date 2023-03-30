@@ -11,7 +11,7 @@ include "include/header.php";
                 <div class="col-xl-12 col-lg-8 col-md-12 col-sm-12">
                     <h1 style="color: white;">Dziękujemy za wiadomość, skontaktujemy się z Tobą najszybciej jak to
                         możliwe.</h1>
-                    <a href="index.html" class="main-button-slider">Wróć do strony głównej</a>
+                    <a href="index.php" class="main-button-slider">Wróć do strony głównej</a>
                 </div>
             </div>
         </div>

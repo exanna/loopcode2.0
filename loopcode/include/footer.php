@@ -19,6 +19,13 @@
         </div>
     </footer>
 
+    <div id="cookies" class="fixed-bottom-cookies d-none">
+        <p class="mb-3">Serwis wykorzystuje pliki cookies m.in. w celu poprawienia jesj dostępności, personalizacji oraz aby zbierać dane, dotyczące ruchu na stronie. Każdy może sam decydować o tym czy dopuszcza pliki cookies, ustawiając odpowiednio swoją przeglądarkę.</p>
+
+        <p class="mb-3">Więcej informacji znajdziesz w <a href="polityka-prywatności" class="link">polityce prywatności.</a></p>
+        <button class="main-button js-cookies mr-3">Akceptuję</button>
+        <button class="main-button js-cookies-nope" style="background-color: #777">Odmawiam</button>
+    </div>
     <!-- jQuery -->
     <script src="assets/js/jquery-2.1.0.min.js"></script>
 
@@ -35,6 +42,7 @@
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
 
+    <script src="assets/js/cookies.js" async defer></script>
 </body>
 
 </html>

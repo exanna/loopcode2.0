@@ -77,10 +77,6 @@ img {
     padding: 20px;
 }
 
-.admin-menu-list {
-
-}
-
 .admin-menu-link {
     display: block;
     color: white;
@@ -105,4 +101,45 @@ img {
     outline: none;
     border: none;
     padding: 0.7em;
+}
+
+.input-checkbox {
+    padding-right: 10px;
+}
+
+.link {
+    color: var(--pink);
+}
+
+ol.policy li {
+    list-style: decimal;
+}
+
+ul.policy li {
+    list-style: decimal;
+}
+
+.policy {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.fixed-bottom-cookies {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    padding: 30px;
+    background-color: var(--pink);
+    color: white;
+}
+
+.d-none {
+    display: none;
 }

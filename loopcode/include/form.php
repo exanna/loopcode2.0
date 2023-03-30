@@ -28,7 +28,7 @@
                     <form id="contact contactform" action="https://formsubmit.io/send/kontakt@loopcode.pl"
                         method="POST">
                         <div class="row">
-                            <input name="_redirect" type="hidden" id="name" value="https://loopcode.pl/dziekujemy.html">
+                            <input name="_redirect" type="hidden" id="name" value="https://loopcode.pl/dziekujemy.php">
                             <div class="col-lg-6 col-md-12 col-sm-12">
                                 <fieldset>
                                     <input name="name" type="text" class="form-control" id="name"
@@ -36,6 +36,12 @@
                                 </fieldset>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12">
+                                <fieldset>
+                                    <input name="phone" type="text" class="form-control" id="phone"
+                                        placeholder="Numer telefonu" required="">
+                                </fieldset>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12">
                                 <fieldset>
                                     <input name="email" type="email" class="form-control" id="email"
                                         placeholder="Adres e-mail" required="">
@@ -47,6 +53,10 @@
                                         placeholder="Napisz nam jaka usługa Cię interesuje i podaj nam najwięcej możliwych szczegółów, to pozwoli nam na szybsze przygotowanie oferty cenowej."
                                         required=""></textarea>
                                 </fieldset>
+                            </div>
+                            <div class="col-lg-12">
+                                <input type="checkbox" name="privacy-policy" class="input-checkbox" required="">
+                                <label for="privacy-policy">Akceptuję <a href="polityka-prywatnosci.php" class="link">politykę prywatności</a></label>
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>
