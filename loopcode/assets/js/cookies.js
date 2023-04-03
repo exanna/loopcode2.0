@@ -18,4 +18,3 @@ cookiesBtnNope.addEventListener('click', () => {
     let cookies = document.querySelector('#cookies');
     cookies.classList.add('d-none');
 })
-

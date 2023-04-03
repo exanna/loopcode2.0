@@ -18,7 +18,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img">
-                        <img src="assets/images/blog-images/blog-item-01.png" alt="">
+                        <img src="assets/images/blog-images/Strategia.png" alt="">
                     </div>
                     <div class="blog-content">
                         <h3>
@@ -36,7 +36,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img">
-                        <img src="assets/images/blog-images/blog-item-02.png" alt="">
+                        <img src="assets/images/blog-images/Persona.png" alt="">
                     </div>
                     <div class="blog-content">
                         <h3>
@@ -53,18 +53,18 @@
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img">
-                        <img src="assets/images/blog-images/blog-item-03.png" alt="">
+                        <img src="assets/images/blog-images/Strona_internetowa.png" alt="">
                     </div>
                     <div class="blog-content">
                         <h3>
-                            <a href="#">Czy warto mieć stronę internetową do prezentacji swoich usług i
+                            <a href="czy-warto-miec-strone.php">Czy warto mieć stronę internetową do prezentacji swoich usług i
                                 produktów?</a>
                         </h3>
                         <div class="text">
                             W dzisiejszych czasach, kiedy większość firm działa w internecie, posiadanie własnej
                             strony internetowej jest…
                         </div>
-                        <a href="#" class="main-button">Czytaj więcej</a>
+                        <a href="czy-warto-miec-strone.php" class="main-button">Czytaj więcej</a>
                     </div>
                 </div>
             </div>
