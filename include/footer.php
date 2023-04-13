@@ -41,8 +41,11 @@
 
     <!-- Global Init -->
     <script src="assets/js/custom.js"></script>
-
     <script src="assets/js/cookies.js" async defer></script>
+
+    <!-- My scripts -->
+    <script src="assets/js/index.js"></script>
+
 </body>
 
 </html>
