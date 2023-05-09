@@ -1,6 +1,7 @@
 <?php
 $title = "Portfolio";
 $page_class = 'portfolio-page';
+$description = "strony internetowe Zawiercie";
 include "include/header.php";
 ?>
 <?php include "include/nav.php"; ?>

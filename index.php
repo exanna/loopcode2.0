@@ -1,5 +1,6 @@
 <?php
 $title = "Strona Główna";
+$description = "strony internetowe Zawiercie";
 include "include/header.php";
 ?>
 <?php include "include/nav.php"; ?>

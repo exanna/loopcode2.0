@@ -1,6 +1,7 @@
 <?php
 $title = "Polityka prywatności";
 $page_class = "privacy-policy";
+$description = "strony internetowe Zawiercie";
 include "include/header.php";
 ?>
 <?php include "include/nav.php"; ?>

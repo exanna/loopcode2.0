@@ -1,6 +1,7 @@
 <?php
     $title = "Skuteczna strategia marketingowa";
     $page_class = "blog";
+    $description = "strony internetowe Zawiercie";
     include "include/header.php";
 ?>
 <?php include "include/nav.php"; ?>

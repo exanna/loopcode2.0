@@ -1,5 +1,6 @@
 <?php
 $title = "Logowanie";
+$description = "strony internetowe Zawiercie";
 include "include/header.php";
 ?>
 

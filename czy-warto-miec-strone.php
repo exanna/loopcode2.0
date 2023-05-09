@@ -1,6 +1,7 @@
 <?php
     $title = "Czy warto mieć stronę internetową do prezentacji swoich usług i produktów?";
     $page_class = "blog";
+    $description = "strony internetowe zawiercie";
     include "include/header.php";
 ?>
 <?php include "include/nav.php"; ?>
