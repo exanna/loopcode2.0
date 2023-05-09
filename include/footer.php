@@ -2,22 +2,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 d-flex flex-wrap footer-nav">
-                    <div class="d-flex flex-column px-4">
+                    <div class="d-flex flex-column px-4 my-2">
                         <h4 class="link-white mb-2 footer-nav-headline">Usługi</h4>
                         <a class="link-white my-1" href="#">Projektowanie stron internetowych</a>
                         <a class="link-white my-1" href="#">Marketing i reklama internetowa</a>
                     </div>
-                    <div class="d-flex flex-column px-4">
+                    <div class="d-flex flex-column px-4 my-2">
                         <h4 class="link-white mb-2 footer-nav-headline">O nas</h4>
                         <a class="link-white my-1" href="blog.php">Blog</a>
                         <a class="link-white my-1" href="portfolio.php">Portfolio</a>
                     </div>
-                    <div class="d-flex flex-column px-4">
+                    <div class="d-flex flex-column px-4 my-2">
                         <h4 class="link-white mb-2 footer-nav-headline">Inne</h4>
                         <a class="link-white my-1" href="polityka-prywatnosci.php">Polityka prywatności</a>
                         <a class="link-white my-1" href="regulamin.php">Regulamin</a>
                     </div>
-                    <div class="d-flex flex-column px-4">
+                    <div class="d-flex flex-column px-4 my-2">
                         <h4 class="link-white mb-2 footer-nav-headline">Realizacje</h4>
                         <a class="link-white my-1" href="/realizacje/lumiponi.php">Lumiponi</a>
                         <a class="link-white my-1" href="/realizacje/olvou.php">Olvou</a>
