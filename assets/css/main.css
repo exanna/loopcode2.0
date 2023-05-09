@@ -1,3 +1,12 @@
+.href-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.link-white {
+  color: white;
+}
+
 .icon img {
   box-sizing: border-box;
   padding: 20px;
@@ -189,10 +198,35 @@ ul.policy li {
   background-color: rgba(var(--indigo), 0.2);
   word-break: break-word;
 }
-/* TODO: @media */
-/* TODO: reszta portfolio */
+
+/* ===========  */
+/*    footer    */
+/* ===========  */
+
+.footer-nav-headline {
+  position: relative;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.footer-nav-headline::before {
+  content: '';
+  display: block;
+  background-color: #fff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 10px;
+  height: 1px;
+}
+
+.footer-nav a {
+  font-size: 13px;
+}
 
 /* ===========  */
 /*    @media    */
 /* ===========  */
 
+/* TODO: reszta portfolio */
+/* TODO: @media */

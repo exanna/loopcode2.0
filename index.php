@@ -1,5 +1,5 @@
 <?php
-$title = "Strona Główna";
+$title = "Strony i sklepy internetowe";
 $description = "strony internetowe Zawiercie";
 include "include/header.php";
 ?>
@@ -32,7 +32,7 @@ include "include/header.php";
                             <div class="icon">
                                 <i><img src="assets/images/programming-icon.png" alt=""></i>
                             </div>
-                            <h5 class="features-title">Programowanie</h5>
+                            <h2 class="features-title">Programowanie</h2>
                             <p>Nasza firma oferuje usługi programowania stron internetowych dla firm i osób
                                 prywatnych. Tworzymy strony internetowe od podstaw lub modyfikujemy istniejące, aby
                                 spełniały Państwa wymagania. Zapewniamy również wsparcie techniczne po wdrożeniu
@@ -45,7 +45,7 @@ include "include/header.php";
                             <div class="icon">
                                 <i><img src="assets/images/marketing-icon.png" alt=""></i>
                             </div>
-                            <h5 class="features-title">Marketing internetowy</h5>
+                            <h2 class="features-title">Marketing internetowy</h2>
                             <p>Pomagamy firmom zwiększyć widoczność w internecie poprzez zastosowanie różnych
                                 strategii marketingowych, takich jak kampanie reklamowe w mediach społecznościowych,
                                 e-mail marketing oraz kompleksowa obsługa mediów społecznościowych.</p>
@@ -57,7 +57,7 @@ include "include/header.php";
                             <div class="icon">
                                 <i><img src="assets/images/copywriting-icon.png" alt=""></i>
                             </div>
-                            <h5 class="features-title">Copywriting</h5>
+                            <h2 class="features-title">Copywriting</h2>
                             <p>Nasza firma oferuje usługi pisania tekstów na strony internetowe, blogi, artykuły i
                                 inne materiały marketingowe. Tworzymy treści, które przyciągają uwagę klientów,
                                 zwiększają zainteresowanie marką i pozycjonują firmę jako eksperta w swojej
@@ -128,7 +128,7 @@ include "include/header.php";
             <div class="row">
                 <div class="col-lg-12">
                     <div class="info">
-                        <h1>Jak pracujemy?</h1>
+                        <h3>Jak pracujemy?</h3>
                         <p>Zapraszamy do współpracy przy tworzeniu projektu, który będzie nie tylko efektywny, ale
                             również innowacyjny i dopasowany do Twoich potrzeb. Gwarantujemy pełne zaangażowanie,
                             otwartość na Twoje sugestie oraz profesjonalne podejście do każdego zadania. Razem
@@ -396,7 +396,7 @@ include "include/header.php";
                         marketingu oraz tworzenia stron internetowych. Dowiesz się, jak zwiększyć zasięg swojej
                         firmy, jakie narzędzia użyć do pozycjonowania strony w wyszukiwarkach, jak projektować
                         atrakcyjne layouty i wiele więcej! Wszystko to w przystępnej formie i języku, który każdy
-                        zrozumie. Czekamy na Ciebie na <a href=blog.html>naszym blogu!</a></p>
+                        zrozumie. Czekamy na Ciebie na <a class="link" href=blog.html>naszym blogu!</a></p>
                 </div>
             </div>
         </div>

@@ -18,8 +18,6 @@ include "include/header.php";
         </div>
     </div>
 </div>
-
-
 <section class="section" id="portfolio">
     <div class="container">
         <div class="row">
