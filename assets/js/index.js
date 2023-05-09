@@ -5,14 +5,15 @@ let flag = false;
 imageList.forEach(image => {
     image.addEventListener('click', ({ target }) => {
         
+        console.log(target)
         if(flag === false){
             flag = true;
-            const styles = window.getComputedStyle(target);
-            const url = styles.backgroundImage.slice(4, -1).replace(/"/g, "");
+            // const styles = window.getComputedStyle(target);
+            // const url = styles.backgroundImage.slice(4, -1).replace(/"/g, "");
             
             const img = document.createElement('img');
             
-            img.src = url;
+            img.src = target.src;
     
             modal.classList.add('image-modal');
             modal.appendChild(img);
@@ -23,7 +24,5 @@ imageList.forEach(image => {
             flag = false;
             modal.innerHTML = '';
         }
-
-
     })
 })

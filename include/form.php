@@ -56,7 +56,7 @@
                             </div>
                             <div class="col-lg-12">
                                 <input type="checkbox" name="privacy-policy" class="input-checkbox" required="">
-                                <label for="privacy-policy">Akceptuję <a href="polityka-prywatnosci.php" class="link">politykę prywatności</a></label>
+                                <label for="privacy-policy">Akceptuję <a href="polityka-prywatnosci.php" class="link">politykę prywatności</a> oraz <a href="regulamin.php" class="link">regulamin</a></label>
                             </div>
                             <div class="col-lg-12">
                                 <fieldset>

@@ -11,7 +11,7 @@ img {
 }
 
 .fit-cover {
-    object-fit: cover;
+  object-fit: cover;
 }
 
 #testimonials {
@@ -157,59 +157,42 @@ ul.policy li {
 /* portfolio page */
 /* ============== */
 
+@media (max-width: 992px) {
+  #portfolio.section {
+    padding-top: 0;
+  }
+}
+
+@media (max-width: 765px) {
+  .portfolio-page .welcome-area {
+    margin-bottom: 0;
+  }
+}
+
 .img-shadow {
-    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
-    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
-    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
-    /* box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; */
-    border-radius: 20px;
-}
-
-.backround-image-settings {
-    background-size: cover;
-    background-position: center 0;
-    background-repeat: no-repeat;
-}
-.lumiponi-instagram-wall {
-    background-image: url('../images/portfolio-images/LumiPoni/instagram-wall-lp.jpg');    
-    min-height: 600px;
-}
-
-.lumiponi-website-screenshot {
-    background-image: url('../images/portfolio-images/LumiPoni/site-screenshot.jpg');
-    min-height: 600px;
-}
-
-.lumiponi-insta-1 {
-    background-image: url('../images/portfolio-images/LumiPoni/instagram-post-1.jpg');
-    min-height: 350px;}
-
-.lumiponi-insta-2 {
-    background-image: url('../images/portfolio-images/LumiPoni/instagram-post-2.jpg');
-    min-height: 350px;}
-
-.lumiponi-insta-3 {
-    background-image: url('../images/portfolio-images/LumiPoni/instagram-post-3.jpg');
-    min-height: 350px;
-}
-
-.lumiponi-img-1 {
-    background-image: url('../images/portfolio-images/LumiPoni/img-1.jpg');
-    min-height: 350px;
-}
-
-.lumiponi-img-2 {
-    background-image: url('../images/portfolio-images/LumiPoni/img-2.jpg');
-    min-height: 350px;
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+  /* box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px; */
+  /* border-radius: 20px; */
 }
 
 .image-modal {
-    position: fixed;
-    top:50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
+.portfolio-heading {
+  background-color: rgba(var(--indigo), 0.2);
+  word-break: break-word;
+}
 /* TODO: @media */
 /* TODO: reszta portfolio */
+
+/* ===========  */
+/*    @media    */
+/* ===========  */
+
