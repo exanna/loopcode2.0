@@ -19,7 +19,7 @@
                         <li><a href="index.php#work-process">Jak pracujemy?</a></li>
                         <li><a href="index.php#testimonials">Nasz team</a></li>
                         <li><a href="blog.php">Blog</a></li>
-                        <!-- <li><a href="portfolio.php">Portfolio</a></li> -->
+                        <li><a href="portfolio.php">Portfolio</a></li>
                         <li><a href="#contact-us">Kontakt</a></li>
                     </ul>
                     <a class='menu-trigger'>

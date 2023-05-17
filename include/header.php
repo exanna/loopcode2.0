@@ -15,7 +15,9 @@
     <meta property="og:title" content="Loopcode | <?php echo $title; ?>">
     <meta property="og:description" content="<?php echo $description; ?>">
     <meta property="og:image" content="">
-
+    <meta property="og:site_name" content="Loopcode.pl">
+    <meta property="og:type" content="website">
+    
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">

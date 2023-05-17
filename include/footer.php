@@ -19,8 +19,8 @@
                     </div>
                     <div class="d-flex flex-column px-4 my-2">
                         <h4 class="link-white mb-2 footer-nav-headline">Realizacje</h4>
-                        <a class="link-white my-1" href="/realizacje/lumiponi.php">Lumiponi</a>
-                        <a class="link-white my-1" href="/realizacje/olvou.php">Olvou</a>
+                        <a class="link-white my-1" href="lumiponi.php">Lumiponi</a>
+                        <a class="link-white my-1" href="olvou.php">Olvou</a>
                     </div>
                 </div>
             </div>            
