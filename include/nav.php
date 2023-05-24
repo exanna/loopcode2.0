@@ -11,7 +11,7 @@
             <div class="col-12">
                 <nav class="main-nav">
                     <a href="index.php" class="logo">
-                        <img src="assets/images/logo.png" alt="Softy Pinko" height="30" />
+                        <img src="assets/images/logo.png" alt="Loopcode" height="30" />
                     </a>
                     <ul class="nav">
                         <li><a href="index.php#welcome">Strona główna</a></li>

@@ -30,7 +30,7 @@ include "include/header.php";
                         data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                         <div class="features-small-item">
                             <div class="icon">
-                                <i><img src="assets/images/programming-icon.png" alt=""></i>
+                                <i><img src="assets/images/icons/programming-icon.png" alt=""></i>
                             </div>
                             <h2 class="features-title">Programowanie</h2>
                             <p>Nasza firma oferuje usługi programowania stron internetowych dla firm i osób
@@ -43,7 +43,7 @@ include "include/header.php";
                         data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                         <div class="features-small-item">
                             <div class="icon">
-                                <i><img src="assets/images/marketing-icon.png" alt=""></i>
+                                <i><img src="assets/images/icons/marketing-icon.png" alt=""></i>
                             </div>
                             <h2 class="features-title">Marketing internetowy</h2>
                             <p>Pomagamy firmom zwiększyć widoczność w internecie poprzez zastosowanie różnych
@@ -55,7 +55,7 @@ include "include/header.php";
                         data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
                         <div class="features-small-item">
                             <div class="icon">
-                                <i><img src="assets/images/copywriting-icon.png" alt=""></i>
+                                <i><img src="assets/images/icons/copywriting-icon.png" alt=""></i>
                             </div>
                             <h2 class="features-title">Copywriting</h2>
                             <p>Nasza firma oferuje usługi pisania tekstów na strony internetowe, blogi, artykuły i
@@ -139,42 +139,42 @@ include "include/header.php";
             <div class="row">
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/talking-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/talking-icon.png" alt=""></i>
                         <strong>Rozmowa wstępna</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/planning-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/planning-icon.png" alt=""></i>
                         <strong>Planowanie projektu</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/pricing-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/pricing-icon.png" alt=""></i>
                         <strong>Wycena współpracy</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/agreement-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/agreement-icon.png" alt=""></i>
                         <strong>Podpisanie umowy</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/www-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/www-icon.png" alt=""></i>
                         <strong>Praca<br>twórcza</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
                 </div>
                 <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                     <a href="#" class="mini-box">
-                        <i><img src="assets/images/cooperation-icon.png" alt=""></i>
+                        <i><img src="assets/images/icons/cooperation-icon.png" alt=""></i>
                         <strong>Dalsza współpraca</strong>
                         <!-- <span>Godard pabst prism fam cliche.</span> -->
                     </a>
@@ -350,32 +350,32 @@ include "include/header.php";
             <div class="row">
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item decoration-bottom">
-                        <img src="assets/images/html5.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/html5.svg" alt="" class="tech-icon">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item decoration-top">
-                        <img src="assets/images/css3.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/css3.svg" alt="" class="tech-icon">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item decoration-bottom">
-                        <img src="assets/images/wordpress.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/wordpress.svg" alt="" class="tech-icon">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item">
-                        <img src="assets/images/square-js.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/square-js.svg" alt="" class="tech-icon">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item">
-                        <img src="assets/images/vuejs.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/vuejs.svg" alt="" class="tech-icon">
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-6 col-sm-12">
                     <div class="count-item">
-                        <img src="assets/images/gulp.svg" alt="" class="tech-icon">
+                        <img src="assets/images/svg/gulp.svg" alt="" class="tech-icon">
                     </div>
                 </div>
             </div>
