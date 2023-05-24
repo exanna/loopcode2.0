@@ -23,14 +23,14 @@ include "include/header.php";
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img portfolio-image">
-                        <img src="assets/images/portfolio-images/LumiPoni/site-screenshot.jpg" alt="">
+                        <img src="assets/images/portfolio-images/LumiPoni/site-screenshot.jpg" alt="Lumiponi - screenshot strony internetowej">
                     </div>
                     <div class="blog-content">
                         <h3>
                             <a href="lumiponi.php">Lumiponi.pl</a>
                         </h3>
                         <div class="text">
-                            Gabinet kosmetologiczny
+                            <p>Gabinet kosmetologiczny</p>
                         </div>
                         <a href="lumiponi.php" class="main-button">Zobacz</a>
                     </div>
@@ -39,14 +39,14 @@ include "include/header.php";
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img portfolio-image">
-                        <img src="assets/images/portfolio-images/Loopcode/site-screenshot.jpeg" alt="">
+                        <img src="assets/images/portfolio-images/Loopcode/site-screenshot.jpeg" alt="Loopcode - screenshot strony internetowej">
                     </div>
                     <div class="blog-content">
                         <h3>
                             <a href="loopcode.php">Loopcode.pl</a>
                         </h3>
                         <div class="text">
-                            To właśnie ta strona na której jesteś :)
+                            <p>To właśnie ta strona na której jesteś :)</p>
                         </div>
                         <a href="loopcode.php" class="main-button">Zobacz</a>
                     </div>
@@ -55,14 +55,14 @@ include "include/header.php";
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="blog-post-thumb">
                     <div class="img portfolio-image">
-                        <img src="assets/images/portfolio-images/Olvou/site-screenshot.jpeg" alt="">
+                        <img src="assets/images/portfolio-images/Olvou/site-screenshot.jpeg" alt="Olvou - screenshot storny internetowej">
                     </div>
                     <div class="blog-content">
                         <h3>
                             <a href="olvou.php">Olvou.pl</a>
                         </h3>
                         <div class="text">
-                            Sklep internetowy dla mody slow fashion
+                            <p>Sklep internetowy dla mody slow fashion</p>
                         </div>
                         <a href="olvou.php" class="main-button">Zobacz</a>
                     </div>

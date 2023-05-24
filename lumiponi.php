@@ -1,5 +1,5 @@
 <?php
-$title = "Portfolio";
+$title = "Portfolio - Lumi Poni";
 $page_class = 'portfolio-page';
 $description = "strony internetowe Zawiercie";
 include "include/header.php";
@@ -41,8 +41,10 @@ include "include/header.php";
                         </div>
                         <div class="col-md-6 mt-4">
                             <img src="assets/images/portfolio-images/LumiPoni/img-2.jpg"  class="img-shadow js-image-to-show" alt="Lumi Poni - bon podarunkowy">
-
                         </div>
+                    </div>
+                    <div class="row p-3">
+                        <a href="portfolio.php" class="link">powrót</a>
                     </div>
                 </article>
             </div>
