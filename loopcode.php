@@ -16,7 +16,7 @@ include "include/header.php";
                     <div class="row">
                         <div class="col-lg-9 col-md-8 col-sm-6 col-7 d-flex flex-column">
                             <h2 class="center-heading portfolio-heading flex-grow-1 d-flex justify-content-center align-items-center img-shadow mb-4">
-                                <a href="https://loopcode.pl" class="link">Loopcode.pl</a>
+                                <a href="https://loopcode.pl" class="link" target="_blank">Loopcode.pl</a>
                             </h2>
                             <img class="img-shadow js-image-to-show" src="assets/images/portfolio-images/Loopcode/site-screenshot.jpeg" alt="Loopcode strona internetowa - screenshot">
                         </div>

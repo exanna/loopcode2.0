@@ -16,7 +16,7 @@ include "include/header.php";
                     <div class="row">
                         <div class="col-lg-9 col-md-8 col-sm-6 col-7 d-flex flex-column">
                             <h2 class="center-heading portfolio-heading flex-grow-1 d-flex justify-content-center align-items-center img-shadow mb-4">
-                                <a href="https://olvou.pl" class="link">Olvou.pl</a>
+                                <a href="https://olvou.pl" class="link" target="_blank">Olvou.pl</a>
                             </h2>
                             <img class="img-shadow js-image-to-show" src="assets/images/portfolio-images/Olvou/site-screenshot.jpeg" alt="Olvou strona internetowa - screenshot">
                         </div>
