@@ -4,7 +4,7 @@
 }
 
 .link-white {
-  color: white;
+  color: var(--white);
 }
 
 .icon img {
@@ -81,27 +81,27 @@ img {
 }
 
 .admin-menu {
-  background-color: var(--indigo);
-  color: white;
+  background-color: var(--main-color2);
+  color: var(--white);
   min-height: calc(100vh - 54px);
   padding: 20px;
 }
 
 .admin-menu-link {
   display: block;
-  color: white;
+  color: var(--white);
   transition: all 0.3s linear;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid var(--white);
   padding: 10px 0;
 }
 
 .admin-menu-link-active {
-  color: var(--pink);
+  color: var(--main-color1);
   filter: brightness(1.75);
 }
 
 .admin-menu-link:hover {
-  color: var(--pink);
+  color: var(--main-color1);
 }
 
 /* ======== */
@@ -109,8 +109,8 @@ img {
 /* ======== */
 
 ::-webkit-file-upload-button {
-  background-color: var(--indigo) !important;
-  color: white !important;
+  background-color: var(--main-color2) !important;
+  color: var(--white) !important;
   outline: none;
   border: none;
   padding: 0.7em;
@@ -121,11 +121,11 @@ img {
 }
 
 .link {
-  color: var(--pink);
+  color: var(--main-color1);
 }
 
 .link-policy {
-  color: var(--indigo);
+  color: var(--main-color2);
 }
 
 ol.policy li {
@@ -153,8 +153,8 @@ ul.policy li {
   left: 0;
   z-index: 1000;
   padding: 30px;
-  background-color: var(--pink);
-  color: white;
+  background-color: var(--main-color1);
+  color: var(--white);
   font-size: 13px;
 }
 
@@ -203,7 +203,6 @@ ul.policy li {
 }
 
 .portfolio-heading {
-  background-color: rgba(var(--indigo), 0.2);
   word-break: break-word;
 }
 
@@ -220,7 +219,7 @@ ul.policy li {
 .footer-nav-headline::before {
   content: '';
   display: block;
-  background-color: #fff;
+  background-color: var(--white);
   position: absolute;
   bottom: 0;
   left: 0;
